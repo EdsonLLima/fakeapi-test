@@ -10,8 +10,8 @@
 	"company": 
 		{
 			"id":1,
-			"nome": "Mega Empreendimentos",
-			"site":"https://megaempreendimentos.com.br/"
+			"nome": "Mega Sistemas",
+			"site":"https://megasistemas.net/"
 		},
 	"equipments": [
 		{"id":1, "image_equipment": "https://via.placeholder.com/300.png/0d6efd/fff", "status": "operacional", "name_equipament": "PC XPTO",  "type":"descktop", "description":" Computador LinkPC Amarelo", "motherboard":"Lorem Impulsem", "cpu":"I3 4geracao", "cooler":"air cooler",   "memory":"12gb dd4", "video card":"GX710 2gb",  "power supply":"700W 80 Gold", "acessory":"monitor lg 17",  "idCompany":1 },
